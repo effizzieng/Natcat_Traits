@@ -1,0 +1,52 @@
+Pattern set "Digit 7 value":
+
+Function	Trait	Frequency
+D7 = 0	Eyes = Dark grey, shade 3	0 (unreleased)
+D7 = 1	Eyes = Indigo, shade 3	0 (unreleased)
+D7 = 2	Eyes = Lilac, shade 3	0 (unreleased)
+D7 = 3	Eyes = Yellow, shade 3	0 (unreleased)
+D7 = 4	Eyes = Blue, shade 3	0 (unreleased)
+D7 = 5	Eyes = Brown, shade 3	0 (unreleased)
+D7 = 6	Eyes = Light grey, shade 3	0 (unreleased)
+D7 = 7	Eyes = Green, shade 3	0 (unreleased)
+D7 = 8	Eyes = Pink, shade 3	0 (unreleased)
+D7 = 9	Eyes = Orange, shade 3	0 (unreleased)
+Pattern set "Digit 8 value":
+
+Function	Trait	Frequency
+D8 = 0	Pupils = Dark grey, shade 4	0 (unreleased)
+D8 = 1	Pupils = Indigo, shade 4	0 (unreleased)
+D8 = 2	Pupils = Lilac, shade 4	0 (unreleased)
+D8 = 3	Pupils = Yellow, shade 4	0 (unreleased)
+D8 = 4	Pupils = Blue, shade 4	0 (unreleased)
+D8 = 5	Pupils = Brown, shade 4	0 (unreleased)
+D8 = 6	Pupils = Light grey, shade 4	0 (unreleased)
+D8 = 7	Pupils = Green, shade 4	0 (unreleased)
+D8 = 8	Pupils = Pink, shade 4	0 (unreleased)
+D8 = 9	Pupils = Orange, shade 4	0 (unreleased)
+Pattern set "Digit 9 value":
+
+Function	Trait	Frequency
+D9 = 0	Whiskers = Dark grey, shade 3	0 (unreleased)
+D9 = 1	Whiskers = Indigo, shade 3	0 (unreleased)
+D9 = 2	Whiskers = Lilac, shade 3	0 (unreleased)
+D9 = 3	Whiskers = Yellow, shade 3	0 (unreleased)
+D9 = 4	Whiskers = Blue, shade 3	0 (unreleased)
+D9 = 5	Whiskers = Brown, shade 3	0 (unreleased)
+D9 = 6	Whiskers = Light grey, shade 3	0 (unreleased)
+D9 = 7	Whiskers = Green, shade 3	0 (unreleased)
+D9 = 8	Whiskers = Pink, shade 3	0 (unreleased)
+D9 = 9	Whiskers = Orange, shade 3	0 (unreleased)
+Pattern set "Digit 10 value":
+
+Function	Trait	Frequency
+D10 = 0	Background = Dark grey, shade 5	0 (unreleased)
+D10 = 1	Background = Indigo, shade 5	0 (unreleased)
+D10 = 2	Background = Lilac, shade 5	0 (unreleased)
+D10 = 3	Background = Yellow, shade 5	0 (unreleased)
+D10 = 4	Background = Blue, shade 5	0 (unreleased)
+D10 = 5	Background = Brown, shade 5	0 (unreleased)
+D10 = 6	Background = Light grey, shade 5	0 (unreleased)
+D10 = 7	Background = Green, shade 5	0 (unreleased)
+D10 = 8	Background = Pink, shade 5	0 (unreleased)
+D10 = 9	Background = Orange, shade 5	0 (unreleased)
